@@ -20,4 +20,5 @@
 - `logic.py`: Wikipedia API呼び出しと要約処理
 
 ## 🖼️ システム設計図・コード説明図
-→ `docs/system_diagram.png` / `docs/code_structure.png` に保存し、ここに表示リンクを追加
+![システム構成図](docs/システム設計図.drawio.png.png)
+![コード説明図図](docs/コード説明図.drawio.png.png)
